@@ -211,7 +211,7 @@
 }
 
 .card_type_book {
-    background-image: url(../images/card-lot-02.jpg);  
+    background-image: url(../images/card-lot-02.jpg);
 }
 
 .card_type_picture {
@@ -248,7 +248,11 @@
     border-radius: 50%;
     display: flex;
     justify-content: center;
-    align-items: center;   
+    align-items: center;
+}
+
+.about__logo-image {
+    height: 114px;
 }
 
 .about__column__info {
